@@ -1,0 +1,32 @@
+# Core Framework
+swarms>=0.1.0
+
+# API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Database
+psycopg2-binary>=2.9.0
+redis>=5.0.0
+neo4j>=5.0.0
+
+# Data Processing
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# ML/AI
+numpy>=1.24.0
+openai>=1.0.0
+
+# Infrastructure
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Monitoring & Logging
+python-json-logger>=2.0.0
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
